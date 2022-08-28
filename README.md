@@ -1,16 +1,16 @@
 # Sales Pedictions
 
-Data Exploration, Data cleaning, Visualization and Machine Learning models like linear Regression to make predictions
+Using Machine Learning models like linear Regression to make Sales predictions
 
 # An overview of the project
-The project goes through different ways of data cleaning, imputation, visualization and how data can be predicted using machine learning models like linear regression. 
+The project goes through different ways of data visualization and how data can be predicted using machine learning models like linear regression and Decision Tree Regressor. 
 
 # Relevant insights from the data.
 Some of the data was visualized with heat map which helped show the correlation between the different data provided. 
 
 ![alt text](Unknown-4.png)
 
-The data was cleaned and this helped to create an efficient train_test_split that would stop data leakage in the machine learning model
+The data was split, passed through a pipeline inorder to stop it from leaking into the test data which I wanted to make predictions to. 
 
 # Summary of the model and its evaluation metrics
 
