@@ -12,7 +12,7 @@ Some of the data was visualized with heat map which helped show the correlation 
 
 The box plot below shows the price range of the different item types. The median in the interquartile range is from 1600 to 2500. Apart from Seafood, the other item_types have some outliers.
 
-
+![alt text](Unknown-5.png)
 
 The data was split, passed through a pipeline inorder to stop it from leaking into the test data which I wanted to make predictions to. 
 
