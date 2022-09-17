@@ -3,7 +3,7 @@
 Using Machine Learning models like linear Regression to make Sales predictions
 
 # An overview of the project
-The project goes through different ways of data visualization and how data can be predicted using machine learning models like linear regression and Decision Tree Regressor. 
+This sales prediction is split into 5 projects which show data cleaning, data visualization and machine learning models like linear regression which were used to predict the sales.   
 
 # Relevant insights from the data.
 Some of the data was visualized with heat map which helped show the correlation between the different data provided. As you can see in the heatmap below there is a moderate correlation between Item Outlet Sales and Item MRP. 
